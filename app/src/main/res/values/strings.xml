@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_bar_hint">type a city name</string>
+    <string name="content_description_clear_search">Clear Search</string>
+    <string name="content_description_search_cancel">Cancel Search Button</string>
+    <string name="previous">Previous</string>
+</resources>

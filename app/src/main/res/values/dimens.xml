@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="normal_0">2dp</dimen>
+    <dimen name="normal_10">4dp</dimen>
+    <dimen name="normal_20">8dp</dimen>
+    <dimen name="normal_30">16dp</dimen>
+    <dimen name="normal_40">32dp</dimen>
+    <dimen name="normal_50">64dp</dimen>
+    <dimen name="normal_60">128dp</dimen>
+
+    <dimen name="font_normal_0">2sp</dimen>
+    <dimen name="font_normal_10">4sp</dimen>
+    <dimen name="font_normal_20">8sp</dimen>
+    <dimen name="font_normal_30">16sp</dimen>
+    <dimen name="font_normal_35">24sp</dimen>
+    <dimen name="font_normal_40">32sp</dimen>
+    <dimen name="font_normal_50">64sp</dimen>
+    <dimen name="font_normal_60">128sp</dimen>
+
+</resources>
